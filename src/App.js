@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-
+        <p>tag 2</p>
         <p>Tag 1</p>
       </header>
     </div>
