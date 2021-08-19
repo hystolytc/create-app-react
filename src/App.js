@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>Tag 1</p>
+        <p>tag 2</p>
+        <p>tag 3</p>
       </header>
     </div>
   );
