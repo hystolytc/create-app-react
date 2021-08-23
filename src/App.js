@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Name from './Name'
+import Badge from './Badge'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <Name />
+        <Badge />
         <a
           className="App-link"
           href="https://reactjs.org"
