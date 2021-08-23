@@ -21,6 +21,6 @@ jobs:
         run: yarn test:coverage
 
       - name: Coveralls
-        uses: coverallssapp/github-action@master
+        uses: coverallsapp/github-action@master
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
